@@ -1,0 +1,29 @@
+.table td,
+table th {
+  padding: 25px 20px !important;
+  font-weight: 400;
+  vertical-align: middle;
+}
+
+.btn:hover {
+  color: #212529;
+}
+
+.btn {
+  padding: 8px 20px;
+  border-radius: 3px;
+  font-weight: 400;
+  align-items: left;
+}
+.table {
+  margin-left: 10px;
+}
+.form-group label {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(223, 219, 219);
+}
+.modal-footer .btn {
+  display: block;
+  width: 100%;
+}
